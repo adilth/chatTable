@@ -1,4 +1,3 @@
-// reducer.ts
 import { UPDATE_MESSAGE } from "./actions";
 
 const initialState = {
